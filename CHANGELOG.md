@@ -4,6 +4,14 @@
 
 This changelog is manually generated and not accurate with the package.json, only to show the changes since the last release.
 
+## 1.0.0 (2022-11-25)
+
+
+### Features
+
+* update blog info ([fd5d2af](https://github.com/sam-ip/samqjip.ca/commit/fd5d2afda086fb7ead9f19156a5514f73723a6b5))
+* workable website ([2ff94f1](https://github.com/sam-ip/samqjip.ca/commit/2ff94f18b77213459955314f1ae5fb1753734cc4))
+
 ## 0.5.4 - 2022-07-22
 
 ### New Features
@@ -410,4 +418,3 @@ Snippets: `reg`
 ```
 
 You should also use [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) extension.
-
