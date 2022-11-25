@@ -23,9 +23,8 @@ export default function HomePage() {
             <div className='text-sm text-gray-800'>
               <p className='mt-2'>hi! - i&#39;m Sam. welcome my website </p>
               <p className='mt-4'>
-                i&#39;m a student studying at UBC, graduating in April 2023.
-                I&#39;m looking for new grad 2023 SWE opportunities! Here&#39;s
-                my{' '}
+                i&#39;m an avid learner interested in all problems tech. I&#39;m
+                looking for 2023 SWE opportunities! Here&#39;s my{' '}
                 <PrimaryLink
                   className='font-bold'
                   href='https://drive.google.com/file/d/1ja2uMp4tFJgt2bhSVaiIO0iAx0qjm6MJ/view'
@@ -42,7 +41,7 @@ export default function HomePage() {
                   Coinbase Exchange
                 </PrimaryLink>{' '}
                 focusing on load-testing exchange services, cost optimization of
-                infrastructure, and improving hiring process.
+                infrastructure, and release engineering of exchange services.
               </p>
               <p className='mt-4'>
                 outside of school/work, i like exercising, playing
