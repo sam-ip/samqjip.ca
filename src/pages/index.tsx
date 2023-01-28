@@ -24,12 +24,12 @@ export default function HomePage() {
               <p className='mt-2'>hi! - i&#39;m Sam. welcome my website </p>
               <p className='mt-4'>
                 i&#39;m an avid learner interested in all problems tech. I&#39;m
-                looking for 2023 SWE opportunities! Here&#39;s my{' '}
+                looking for SWE opportunities! Here&#39;s my{' '}
                 <PrimaryLink
                   className='font-bold'
-                  href='https://drive.google.com/file/d/1ja2uMp4tFJgt2bhSVaiIO0iAx0qjm6MJ/view'
+                  href='https://linkedin.com/in/sam-qj-ip'
                 >
-                  Resume
+                  LinkedIn
                 </PrimaryLink>{' '}
               </p>
               <p className='mt-4'>
